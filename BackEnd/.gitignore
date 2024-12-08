@@ -1,0 +1,5 @@
+# Ignore .env files
+.env
+
+# Ignore auth-related files (adjust filename as necessary)
+node_modules
